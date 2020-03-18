@@ -1,0 +1,46 @@
+.header {
+    height: 60px;
+    background-color: #003a51 ;
+    
+}
+    ul{
+        list-style-type:none;
+        color:white;
+        padding: 0px 50px 10px 442px;
+        font-size:15px;
+    
+        display: inline;
+        float: left;
+        margin:10px;
+    }
+    ul.headermenu{
+        Float:right;
+        padding: 0px 50px 10px 0px;
+    }
+    li{
+        display: inline-block;
+        Margin-right:82px;
+        text-transform: uppercase;
+    }
+    
+    li:hover{
+        cursor:pointer;
+        background-color:black;
+        color: white;
+    
+}
+.notificationbar{
+    height: 50.4px;
+    background-color: #f57812 ;
+}
+.logo {
+    width: 150px;
+    float: left;
+    display: inline-block;
+    clear: left;
+    margin-left:200px;
+}
+.logo img{
+    width:150px;
+    height:40px;
+}

@@ -1,0 +1,64 @@
+.section {
+    width:100%;
+}
+.imageBody{
+    height: 400.4px;
+    background-image: url("explore-hero.jpg");
+}
+.footer{
+    height: 636px;
+    background-color:white ;:
+
+
+}
+.container{
+    float:right;
+    height:220px;
+    width:510px;
+    margin-top: 100px;
+    margin-right: 200px;
+}
+.h1{
+  text-align: center-right;
+  color: white;
+  font-size: 24px;
+    font-weight: bold;
+    font-style: italic;
+
+}
+.p{
+text-align: center-right;
+color: white;
+
+}
+.button {
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    color:black;
+    background-color: #f57812;
+    border: none;
+    border-radius: 15px;
+
+ 
+    height: 25px;
+    width: 25px;
+    font-size: 11px;
+  }
+  .explorebutton {
+    border-radius: 15px 0px 40px 15px;
+
+ 
+    height: 30px;
+    width: 125px;
+  
+  }
+
+.section{
+    float: center;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    
+}
